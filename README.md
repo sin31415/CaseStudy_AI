@@ -2,7 +2,7 @@
 A case study on AudioStack.
 
 
-## Overview and Origin
+## _Overview and Origin_
 
 * _Name_: [AudioStack](https://audiostack.ai/)
 
